@@ -1,0 +1,25 @@
+.previous-tip {
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-layout-space-halfunit);
+  padding-left: var(--dl-layout-space-unit);
+  border-radius: var(--dl-layout-radius-radius4);
+  padding-right: var(--dl-layout-space-unit);
+  flex-direction: row;
+  padding-bottom: var(--dl-layout-space-halfunit);
+  background-color: var(--dl-color-primary-900);
+}
+ 
+.previous-icon1 {
+  width: var(--dl-layout-size-unit);
+  height: var(--dl-layout-size-unit);
+}
+ 
+.previous-text {
+  max-width: 600px;
+  margin-left: var(--dl-layout-space-halfunit);
+}
+ 
+
+ 
+
